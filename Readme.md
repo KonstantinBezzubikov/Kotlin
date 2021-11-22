@@ -1,14 +1,4 @@
-# Demo application with spring-boot and kotlin
-
-## Requirement
-
-* java 8+
-
-## Run application
-
-```shell script
-./gradlew bootRun
-```
+## Spring-boot and kotlin rest
 
 ## Test endpoints by opening next url's:
 
